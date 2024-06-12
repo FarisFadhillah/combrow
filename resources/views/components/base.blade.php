@@ -42,21 +42,6 @@
   -->
     <script src="../node_modules/flowbite/dist/flowbite.min.js"></script>
 
-    {{-- <script>
-        // JavaScript to change the navbar background on scroll
-        window.addEventListener('scroll', function() {
-          const navbar = document.getElementById('navbar');
-          if (window.scrollY > 0) {
-            navbar.classList.add('bg-white', 'shadow-md');
-            navbar.classList.remove('text-white');
-          } else {
-            navbar.classList.remove('bg-white', 'shadow-md');
-            navbar.classList.add('text-white');
-            
-          }
-        });
-    </script> --}}
-
     <script>
       var scrollpos = window.scrollY;
       var header = document.getElementById("header");
@@ -138,5 +123,26 @@
         return false;
       }
     </script>
+
+<script>
+  document.getElementById('layanan-link').addEventListener('click', function() {
+    var dropdown = document.getElementById('layanan-dropdown');
+    if (dropdown.classList.contains('hidden')) {
+      dropdown.classList.remove('hidden');
+      dropdown.classList.add('block');
+    } else {
+      dropdown.classList.remove('block');
+      dropdown.classList.add('hidden');
+    }
+  });
+
+  // Optional: Close the dropdown if clicking outside of it
+  window.addEventListener('click', function(e) {
+    if (!document.getElementById('layanan-link').contains(e.target) && !document.getElementById('layanan-dropdown').contains(e.target)) {
+      document.getElementById('layanan-dropdown').classList.remove('block');
+      document.getElementById('layanan-dropdown').classList.add('hidden');
+    }
+  });
+</script>
   </body>
 </html>

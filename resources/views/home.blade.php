@@ -1,4 +1,3 @@
-
 <x-base>  
   <!--Hero-->
   <div class="pt-24">
@@ -11,7 +10,7 @@
           Solusi Terpercaya untuk Peningkatan Penjualan Toko Online Anda
         </h1>
         <p class="leading-normal text-xl mb-8">
-          <span class="font-bold">Sukacreative</span> merupakan konsultan sekaligus penyedia layanan jasa digital marketing untuk berbagai tahapan bisnis hasil kalobarasi dari berbagai Agency & profesional terbaik di Indonesia!
+          <span class="font-bold">Combrow Creative</span> merupakan konsultan sekaligus penyedia layanan jasa digital marketing untuk berbagai tahapan bisnis hasil kalobarasi dari berbagai Agency & profesional terbaik di Indonesia!
         </p>
         <button
           class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
@@ -33,71 +32,54 @@
       <h2
         class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800"
       >
-        Apa Saja Layanan SUKA CREATIVE?
+        Apa Saja Layanan COMBROW CREATIVE?
       </h2>
       <div class="w-full mb-4">
         <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
       </div>
-      <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
+      <div class="w-full md:w-1/2 p-6 flex flex-col flex-grow flex-shrink">
         <div class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center">
           <div class="mt-4 mx-a">
-            <svg
-              class="h-24 w-24 text-[#88a8fa]"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              stroke-width="2"
-              stroke="currentColor"
-              fill="none"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <path stroke="none" d="M0 0h24v24H0z" />
-              <circle cx="10" cy="10" r="7" />
-              <line x1="21" y1="21" x2="15" y2="15" />
-            </svg>
+            <svg class="h-24 w-24 text-[#88a8fa]"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <circle cx="12" cy="12" r="10" />  <line x1="2" y1="12" x2="22" y2="12" />  <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" /></svg>
           </div>
           <div class="w-full my-4 font-bold text-xl text-center text-gray-800 px-6">
-            Riset Pasar
+            Jasa Pembuatan Website
           </div>
           <p class="text-gray-800 text-center text-base px-6 mb-5">
-            Melakukan analisis mendalam tentang pasar, pesaing, dan tren
-            terkini untuk membantu Anda memahami lingkungan bisnis Anda dan
-            mengidentifikasi peluang yang dapat dimanfaatkan.
+            Website akan menjadi tempat konsumen/klien mencari informasi lengkap tentang usaha yang ditawarkan.
           </p>
+            <div class="flex items-center justify-start">
+              <button class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+                Action
+              </button>
+            </div>
         </div>
       </div>
-      <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
+      <div class="w-full md:w-1/2 p-6 flex flex-col flex-grow flex-shrink">
         <div
           class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center"
         >
           <div class="mt-4 mx-a">
-            <svg
-              class="h-24 w-24 text-[#88a8fa]"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="M16 8v8m-4-5v5m-4-2v2m-2 4h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
-              />
-            </svg>
+            <svg class="h-24 w-24 text-[#88a8fa]"  fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"/>
+            </svg>            
           </div>
           <div
             class="w-full my-4 font-bold text-xl text-center text-gray-800 px-6"
           >
-            Analisis Data
+            Jasa Design Website
           </div>
           <p class="text-gray-800 text-center text-base px-6 mb-5">
-            Kami menyediakan analisis dan laporan berkala untuk membantu Anda
-            memahami performa toko dan iklan Anda.
+            Tampilan website yang segar dan dinamis akan meningkatkan brand awareness usaha Anda.
           </p>
+          <div class="flex items-center justify-start">
+            <button class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+              Action
+            </button>
+          </div>
         </div>
       </div>
-      <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
+      <div class="w-full md:w-1/2 p-6 flex flex-col flex-grow flex-shrink">
         <div
           class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center"
         >
@@ -119,50 +101,20 @@
           <div
             class="w-full my-4 font-bold text-xl text-center text-gray-800 px-6"
           >
-            Strategi Pemasaran
+            Jasa Pengelolaan Website
           </div>
           <p class="text-gray-800 text-center text-base px-6 mb-5">
             Merancang strategi pemasaran yang efektif berdasarkan hasil riset
             dan analisis, termasuk strategi konten, sosial media, dan promosi.
           </p>
+          <div class="flex items-center justify-start">
+            <button class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+              Action
+            </button>
+          </div>
         </div>
       </div>
-      <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
-        <div
-          class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center"
-        >
-          <div class="mt-4 mx-a">
-            <svg
-              class="h-24 w-24 text-[#88a8fa]"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              stroke-width="2"
-              stroke="currentColor"
-              fill="none"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <path stroke="none" d="M0 0h24v24H0z" />
-              <rect x="3" y="15" width="6" height="6" rx="2" />
-              <rect x="15" y="15" width="6" height="6" rx="2" />
-              <rect x="9" y="3" width="6" height="6" rx="2" />
-              <path d="M6 15v-1a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v1" />
-              <line x1="12" y1="9" x2="12" y2="12" />
-            </svg>
-          </div>
-          <div
-            class="w-full my-4 font-bold text-xl text-center text-gray-800 px-6"
-          >
-            Optimasi Produk
-          </div>
-          <p class="text-gray-800 text-center text-base px-6 mb-5">
-            Membantu Anda mengoptimalkan katalog produk Anda, termasuk harga,
-            deskripsi, dan gambar, untuk meningkatkan daya tarik.
-          </p>
-        </div>
-      </div>
-      <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
+      <div class="w-full md:w-1/2 p-6 flex flex-col flex-grow flex-shrink">
         <div
           class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center"
         >
@@ -191,47 +143,17 @@
           <div
             class="w-full my-4 font-bold text-xl text-center text-gray-800 px-6"
           >
-            Optimasi Toko
+            Optimasi Marketplace
           </div>
           <p class="text-gray-800 text-center text-base px-6 mb-5">
             Menyempurnakan desain dan fungsionalitas toko online Anda untuk
             meningkatkan kenyamanan pengguna.
           </p>
-        </div>
-      </div>
-      <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
-        <div
-          class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center"
-        >
-          <div class="mt-4 mx-a">
-            <svg
-              class="h-24 w-24 text-[#88a8fa]"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              stroke-width="2"
-              stroke="currentColor"
-              fill="none"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <path stroke="none" d="M0 0h24v24H0z" />
-              <rect x="3" y="5" width="18" height="14" rx="2" />
-              <path d="M7 15v-4a2 2 0 0 1 4 0v4" />
-              <line x1="7" y1="13" x2="11" y2="13" />
-              <path d="M17 9v6h-1.5a1.5 1.5 0 1 1 1.5 -1.5" />
-            </svg>
+          <div class="flex items-center justify-start">
+            <button class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+              Action
+            </button>
           </div>
-          <div
-            class="w-full my-4 font-bold text-xl text-center text-gray-800 px-6"
-          >
-            Iklan Marketplace
-          </div>
-          <p class="text-gray-800 text-center text-base px-6 mb-5">
-            Merancang dan mengelola kampanye iklan yang efektif di berbagai
-            platform, seperti Shopee Ads, Tokopedia Ads, dan Google Ads, untuk
-            meningkatkan visibilitas toko Anda.
-          </p>
         </div>
       </div>
     </div>
@@ -807,118 +729,63 @@
   <section class="bg-gray-100 py-8">
     <div class="container mx-auto px-2 pt-4 pb-12 text-gray-800">
       <h2 class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
-        Pilih Paket Yang Sesuai Dengan Kebutuhan Anda
+        Manfaat Go Digital Untuk Usaha Anda
       </h2>
       <div class="w-full mb-4">
         <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
       </div>
-      <div class="flex flex-col sm:flex-row justify-center pt-12 my-12 sm:my-4">
-        <!-- Card 1 -->
-        <div class="pr-6 flex flex-col w-5/6 lg:w-1/4 mx-auto lg:mx-0 rounded-none lg:rounded-l-lg bg-gray-100 mt-4">
-          <div class="flex-1 bg-white text-gray-600 rounded-t-xl rounded-b-none overflow-hidden border-b-0 border-4 border-[#88a8fa]">
-            <div class="w-full p-8 text-2xl font-bold text-center">
-              <p>OPTIMASI 1 MARKETPLACE</p>
-            </div>
-            <!-- <div class="h-1 w-full gradient my-0 py-0"></div> -->
-            <ul class="w-full text-center text-md p-1 border-t-2 border-[#88a8fa]">
-              <li class="border-b py-4 border-[#88a8fa]">Riset Pasar 1 Jenis Produk di 1 Marketplace</li>
-              <li class="border-b py-4 border-[#88a8fa]">Riset Kompetitor 1 Jenis Produk di 1 Marketplace</li>
-              <li class="border-b py-4 border-[#88a8fa]">Riset Kata Kunci</li>
-              <li class="border-b py-4 border-[#88a8fa]">Design 2 Banner Toko</li>
-              <li class="border-b py-4 border-[#88a8fa]">Deskripsi Toko</li>
-              <li class="border-b py-4 border-[#88a8fa]">Design Foto Utama Max 20 Produk</li>
-              <li class="border-b py-4 border-[#88a8fa]">Upload Produk di Marketplace</li>
-              <li class="border-b py-4 border-[#88a8fa]">Deskripsi 20 Produk (SEO Friendly)</li>
-              <li class="border-b py-4 border-[#88a8fa]">Kategorisasi Etalase Produk</li>
-              <li class="border-b py-4 border-[#88a8fa]">Setting Auto Reply</li>
-              <li class="border-b py-4 border-[#88a8fa]">Report dan Analisa</li>
-            </ul>
+      <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
+        <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
+          <div class="relative pl-16">
+            <dt class="text-base font-semibold leading-7 text-gray-900">
+              <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-[#88a8fa]">
+                <svg class="h-6 w-6 text-white"  fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                </svg>
+                
+              </div>
+              Jangakauan Semakin Luas
+            </dt>
+            <dd class="mt-2 text-base leading-7 text-gray-600">Dengan go digital maka produk yang Anda tawarkan akan dapat menjangkau semakin banyak orang selama terdapat jaringan internet.</dd>
           </div>
-          <div class="flex-none mt-auto bg-white rounded-b-xl rounded-t-none overflow-hidden p-6 border-4 border-t-0 border-[#88a8fa]">
-            <div class="w-full pt-2 text-2xl text-[#f84043d0] font-bold text-center">
-              <s>Rp 2.000.000</s>
-            </div>
-            <div class="w-full pt-6 text-3xl text-[#f84043] font-bold text-center">
-              Rp 1.500.000
-            </div>
-            <div class="flex items-center justify-center">
-              <button class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
-                Pilih Paket
-              </button>
-            </div>
+          <div class="relative pl-16">
+            <dt class="text-base font-semibold leading-7 text-gray-900">
+              <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-[#88a8fa]">
+                <svg class="h-6 w-6 text-white"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <circle cx="10" cy="10" r="7" />  <line x1="21" y1="21" x2="15" y2="15" /></svg>
+              </div>
+              Layanan Usaha/Produk Akan Mudah Ditemukan Oleh Konsumen
+            </dt>
+            <dd class="mt-2 text-base leading-7 text-gray-600">Saat ini banyak konsumen yang mencari produk yang dibutuhkannya melalui internet.  Dengan produk Anda teroptimasi di platform-platform yang ada di internet, maka akan lebih mudah ditemukan oleh konsumen.</dd>
           </div>
-        </div>
-        <!-- Card 2 -->
-        <div class="pr-6 flex flex-col w-5/6 lg:w-1/4 mx-auto lg:mx-0 rounded-none lg:rounded-l-lg bg-gray-100 mt-4">
-          <div class="flex-1 bg-white text-gray-600 rounded-t-xl rounded-b-none overflow-hidden border-b-0 border-4 border-[#88a8fa]">
-            <div class="w-full p-8 text-2xl font-bold text-center">
-              <p>OPTIMASI 2 MARKETPLACE</p>
-            </div>
-            <!-- <div class="h-1 w-full gradient my-0 py-0"></div> -->
-            <ul class="w-full text-center text-md p-1 border-t-2 border-[#88a8fa]">
-              <li class="border-b py-4 border-[#88a8fa]">Riset Pasar 1 Jenis Produk di 1 Marketplace</li>
-              <li class="border-b py-4 border-[#88a8fa]">Riset Kompetitor 1 Jenis Produk di 1 Marketplace</li>
-              <li class="border-b py-4 border-[#88a8fa]">Riset Kata Kunci</li>
-              <li class="border-b py-4 border-[#88a8fa]">Design 2 Banner Toko</li>
-              <li class="border-b py-4 border-[#88a8fa]">Deskripsi Toko</li>
-              <li class="border-b py-4 border-[#88a8fa]">Design Foto Utama Max 20 Produk</li>
-              <li class="border-b py-4 border-[#88a8fa]">Upload Produk di Marketplace</li>
-              <li class="border-b py-4 border-[#88a8fa]">Deskripsi 20 Produk (SEO Friendly)</li>
-              <li class="border-b py-4 border-[#88a8fa]">Kategorisasi Etalase Produk</li>
-              <li class="border-b py-4 border-[#88a8fa]">Setting Auto Reply</li>
-              <li class="border-b py-4 border-[#88a8fa]">Report dan Analisa</li>
-            </ul>
+          <div class="relative pl-16">
+            <dt class="text-base font-semibold leading-7 text-gray-900">
+              <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-[#88a8fa]">
+                <svg class="h-6 w-6 text-white"  fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"/>
+                </svg>
+                
+              </div>
+              Menjaga Hubungan Dengan Konsumen
+            </dt>
+            <dd class="mt-2 text-base leading-7 text-gray-600">Pandemi memaksa orang untuk mengurangi aktifitas di luar rumah.  Kondisi ini dapat menjadi pemutus hubungan kita dengan konsumen.
+              Dengan go digital, maka konsumen yang di rumah saja akan dapat tetap terhubung dengan usaha kita.
+              
+              Dengan demikian akan tetap menjaga komunikasi kita dengan konsumen..</dd>
           </div>
-          <div class="flex-none mt-auto bg-white rounded-b-xl rounded-t-none overflow-hidden p-6 border-4 border-t-0 border-[#88a8fa]">
-            <div class="w-full pt-2 text-2xl text-[#f84043d0] font-bold text-center">
-              <s>Rp 3.500.000</s>
-            </div>
-            <div class="w-full pt-6 text-3xl text-[#f84043] font-bold text-center">
-              Rp 2.500.000
-            </div>
-            <div class="flex items-center justify-center">
-              <button class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
-                Pilih Paket
-              </button>
-            </div>
+          <div class="relative pl-16">
+            <dt class="text-base font-semibold leading-7 text-gray-900">
+              <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-[#88a8fa]">
+                <svg class="h-6 w-6 text-white"  fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/>
+                </svg>
+                
+              </div>
+              Menigkatkan Peluang Pengembangan Usaha Semakin Luas
+            </dt>
+            <dd class="mt-2 text-base leading-7 text-gray-600">Dengan jangkauan yang semakin luas, maka jumlah konsumen usaha kita akan semakin meningkat peluangnya.
+              Apabila kesempatan ini bisa dikelola dengan baik, maka pandemi akan dapat menmberikan peluang bisnis Anda untuk semakin berkembang.</dd>
           </div>
-        </div>
-        <!-- Card 3 -->
-        <div class="pr-6 flex flex-col w-5/6 lg:w-1/4 mx-auto lg:mx-0 rounded-none lg:rounded-l-lg bg-gray-100 mt-4">
-          <div class="flex-1 bg-white text-gray-600 rounded-t-xl rounded-b-none overflow-hidden border-b-0 border-4 border-[#88a8fa]">
-            <div class="w-full p-8 text-2xl font-bold text-center">
-              <p>OPTIMASI 3 MARKETPLACE</p>
-            </div>
-            <!-- <div class="h-1 w-full gradient my-0 py-0"></div> -->
-            <ul class="w-full text-center text-md p-1 border-t-2 border-[#88a8fa]">
-              <li class="border-b py-4 border-[#88a8fa]">Riset Pasar 1 Jenis Produk di 1 Marketplace</li>
-              <li class="border-b py-4 border-[#88a8fa]">Riset Kompetitor 1 Jenis Produk di 1 Marketplace</li>
-              <li class="border-b py-4 border-[#88a8fa]">Riset Kata Kunci</li>
-              <li class="border-b py-4 border-[#88a8fa]">Design 2 Banner Toko</li>
-              <li class="border-b py-4 border-[#88a8fa]">Deskripsi Toko</li>
-              <li class="border-b py-4 border-[#88a8fa]">Design Foto Utama Max 20 Produk</li>
-              <li class="border-b py-4 border-[#88a8fa]">Upload Produk di Marketplace</li>
-              <li class="border-b py-4 border-[#88a8fa]">Deskripsi 20 Produk (SEO Friendly)</li>
-              <li class="border-b py-4 border-[#88a8fa]">Kategorisasi Etalase Produk</li>
-              <li class="border-b py-4 border-[#88a8fa]">Setting Auto Reply</li>
-              <li class="border-b py-4 border-[#88a8fa]">Report dan Analisa</li>
-            </ul>
-          </div>
-          <div class="flex-none mt-auto bg-white rounded-b-xl rounded-t-none overflow-hidden p-6 border-4 border-t-0 border-[#88a8fa]">
-            <div class="w-full pt-2 text-2xl text-[#f84043d0] font-bold text-center">
-              <s>Rp 4.500.000</s>
-            </div>
-            <div class="w-full pt-6 text-3xl text-[#f84043] font-bold text-center">
-              Rp 4.000.000
-            </div>
-            <div class="flex items-center justify-center">
-              <button class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
-                Pilih Paket
-              </button>
-            </div>
-          </div>
-        </div>
-        
+        </dl>
       </div>
     </div>
   </section>
