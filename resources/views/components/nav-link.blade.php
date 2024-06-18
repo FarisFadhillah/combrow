@@ -1,0 +1,1 @@
+<a {{ $attributes }} :class="{'text-gray-700 hover:text-white hover:bg-[#88a8fa]': scrolled, 'text-white hover:text-gray-900 hover:bg-white': !scrolled}" class="text-md font-semibold leading-6 rounded-full py-3 px-3">{{ $slot }}</a>
