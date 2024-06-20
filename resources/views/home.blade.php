@@ -1,13 +1,13 @@
 <x-base>  
   <!--Hero-->
-  <div class="pt-12 mb-18 md:pt-24">
-    <div class="container mx-auto px-3 flex flex-wrap flex-col md:flex-row items-center">
+  <div class="pt-12 mb-20 md:pt-18">
+    <div class="container mx-auto max-w-7xl px-3 flex flex-wrap flex-col md:flex-row items-center">
       <!--Left Col-->
       <div class="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left">
         <h1 class="my-4 text-3xl md:text-5xl font-bold leading-tight">
           Solusi Terpercaya untuk Peningkatan Penjualan Toko Online Anda
         </h1>
-        <p class="leading-normal text-lg mb-0 md:text-xl md:mb-8">
+        <p class="leading-normal text-md mb-0 md:text-xl md:mb-8">
           <span class="font-bold">Combrow Creative</span> merupakan konsultan sekaligus penyedia layanan jasa digital marketing untuk berbagai tahapan bisnis hasil kolaborasi dari berbagai Agency & profesional terbaik di Indonesia!
         </p>
         <button class="mx-auto md:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-3 px-6 md:py-4 md:px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
@@ -23,8 +23,8 @@
   <!-- Wave -->
   <x-wave-top></x-wave-top>
   <!-- Layanan -->
-    <section class="bg-white border-b py-8">
-      <div class="container mx-auto flex flex-wrap pt-4 pb-12">
+    <section class="bg-white border-b py-2">
+      <div class="container mx-auto max-w-7xl flex flex-wrap pt-4 pb-0">
         <h2
           class="w-full my-2 text-3xl md:text-5xl font-bold leading-tight text-center text-gray-800"
         >
@@ -36,12 +36,12 @@
         <div class="w-full md:w-1/2 p-6 flex flex-col flex-grow flex-shrink">
           <div class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center">
             <div class="mt-4 mx-a">
-              <svg class="h-24 w-24 text-[#88a8fa]"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <circle cx="12" cy="12" r="10" />  <line x1="2" y1="12" x2="22" y2="12" />  <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" /></svg>
+              <svg class="h-16 w-16 md:h-24 md:w-24 text-[#88a8fa]"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <circle cx="12" cy="12" r="10" />  <line x1="2" y1="12" x2="22" y2="12" />  <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" /></svg>
             </div>
-            <div class="w-full my-4 font-bold text-xl text-center text-gray-800 px-6">
+            <div class="w-full my-4 font-bold text-xl md:text-3xl text-center text-gray-800 px-6">
               Jasa Pembuatan Website
             </div>
-            <p class="text-gray-800 text-center text-base px-6 mb-5">
+            <p class="text-gray-800 text-center text-md md:text-xl px-6 mb-5">
               Website akan menjadi tempat konsumen/klien mencari informasi lengkap tentang usaha yang ditawarkan.
             </p>
               <div class="flex items-center justify-start">
@@ -56,16 +56,16 @@
             class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center"
           >
             <div class="mt-4 mx-a">
-              <svg class="h-24 w-24 text-[#88a8fa]"  fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <svg class="h-16 w-16 md:h-24 md:w-24 text-[#88a8fa]"  fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"/>
               </svg>            
             </div>
             <div
-              class="w-full my-4 font-bold text-xl text-center text-gray-800 px-6"
+              class="w-full my-4 font-bold text-xl md:text-3xl text-center text-gray-800 px-6"
             >
               Jasa Design Website
             </div>
-            <p class="text-gray-800 text-center text-base px-6 mb-5">
+            <p class="text-gray-800 text-center text-md md:text-xl px-6 mb-5">
               Tampilan website yang segar dan dinamis akan meningkatkan brand awareness usaha Anda.
             </p>
             <div class="flex items-center justify-start">
@@ -80,16 +80,16 @@
             class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center"
           >
             <div class="mt-4 mx-a">
-              <svg class="h-24 w-24 text-[#88a8fa]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <svg class="h-16 w-16 md:h-24 md:w-24 text-[#88a8fa]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"/>
               </svg>
             </div>
             <div
-              class="w-full my-4 font-bold text-xl text-center text-gray-800 px-6"
+              class="w-full my-4 font-bold text-xl md:text-3xl text-center text-gray-800 px-6"
             >
               Jasa Pengelolaan Website
             </div>
-            <p class="text-gray-800 text-center text-base px-6 mb-5">
+            <p class="text-gray-800 text-center text-md md:text-xl px-6 mb-5">
               Merancang strategi pemasaran yang efektif berdasarkan hasil riset
               dan analisis, termasuk strategi konten, sosial media, dan promosi.
             </p>
@@ -105,7 +105,7 @@
             class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center"
           >
             <div class="mt-4 mx-a">
-              <svg class="h-24 w-24 text-[#88a8fa]" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" >
+              <svg class="h-16 w-16 md:h-24 md:w-24 text-[#88a8fa]" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" >
                 <path stroke="none" d="M0 0h24v24H0z" />
                 <line x1="3" y1="21" x2="21" y2="21" />
                 <path
@@ -117,11 +117,11 @@
               </svg>
             </div>
             <div
-              class="w-full my-4 font-bold text-xl text-center text-gray-800 px-6"
+              class="w-full my-4 font-bold text-xl md:text-3xl text-center text-gray-800 px-6"
             >
               Optimasi Marketplace
             </div>
-            <p class="text-gray-800 text-center text-base px-6 mb-5">
+            <p class="text-gray-800 text-center text-md md:text-xl px-6 mb-5">
               Menyempurnakan desain dan fungsionalitas toko online Anda untuk
               meningkatkan kenyamanan pengguna.
             </p>
@@ -136,7 +136,7 @@
     </section>
   <!-- WHY -->
   <section class="bg-white border-b py-8">
-    <div class="container max-w-5xl mx-auto m-8">
+    <div class="container max-w-7xl mx-auto m-8">
       <h2 class="w-full my-2 text-3xl md:text-5xl font-bold leading-tight text-center text-gray-800" >
         Kenapa Harus COMBROW CREATIVE
       </h2>
@@ -147,10 +147,10 @@
       </div>
       <div class="flex flex-wrap">
         <div class="w-5/6 sm:w-1/2 p-6">
-          <h3 class="text-xl md:text-2xl text-gray-800 font-bold leading-none mb-3">
+          <h3 class="text-xl md:text-4xl text-gray-800 font-bold leading-none mb-3">
             Berpengalaman
           </h3>
-          <p class="text-gray-600 mb-8 ">
+          <p class="text-gray-600 mb-8 text-md md:text-xl ">
             COMBROW CREATIVE memiliki tim ahli dengan pengalaman luas dalam
             mengelola toko dan iklan di berbagai platform marketplace.
             Keahlian kami dalam strategi pemasaran digital telah terbukti
@@ -511,10 +511,10 @@
         </div>
         <div class="w-full sm:w-1/2 p-6 mt-6">
           <div class="align-middle">
-            <h3 class="text-xl md:text-2xl text-gray-800 font-bold leading-none mb-3">
+            <h3 class="text-xl md:text-4xl text-gray-800 font-bold leading-none mb-3">
               Keamanan dan Kepuasan Pelanggan Terjamin
             </h3>
-            <p class="text-gray-600 mb-8">
+            <p class="text-gray-600 mb-8 text-md md:text-xl">
               COMBROW CREATIVE menempatkan keamanan akun toko Anda sebagai prioritas
               utama. Dengan pengalaman yang terpercaya dan dukungan tim yang
               handal, kami tidak hanya menjamin keamanan akun Anda tetapi juga
@@ -536,9 +536,9 @@
         <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
       </div>
       <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
-        <div class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center" >
-          <div class="w-full mt-4 mb-2 font-bold text-5xl text-center text-[#88a8fa] px-6">
-            500++
+        <div class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center">
+          <div id="clientCount" data-val="100" class="num w-full mt-4 mb-2 font-bold text-5xl text-center text-[#88a8fa] px-6">
+            000
           </div>
           <div class="w-full mb-4 font-bold text-xl text-center text-[#475781] px-6">
             Klien
@@ -546,42 +546,31 @@
         </div>
       </div>
       <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
-        <div
-          class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center"
-        >
-          <div
-            class="w-full mt-4 mb-2 font-bold text-5xl text-center text-[#88a8fa] px-6"
-          >
-            1000++
+        <div class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center">
+          <div id="storeCount" data-val="500" class="num w-full mt-4 mb-2 font-bold text-5xl text-center text-[#88a8fa] px-6">
+            000
           </div>
-          <div
-            class="w-full mb-4 font-bold text-xl text-center text-[#475781] px-6"
-          >
+          <div class="w-full mb-4 font-bold text-xl text-center text-[#475781] px-6">
             Toko yang Kami Optimasi
           </div>
         </div>
       </div>
       <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
-        <div
-          class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center"
-        >
-          <div
-            class="w-full mt-4 mb-2 font-bold text-5xl text-center text-[#88a8fa] px-6"
-          >
-            2+
+        <div class="flex-1 bg-white border-2 border-[#88a8fa] rounded-2xl overflow-hidden flex flex-col justify-center items-center">
+          <div id="yearsCount" data-val="2" class="num w-full mt-4 mb-2 font-bold text-5xl text-center text-[#88a8fa] px-6">
+            0
           </div>
-          <div
-            class="w-full mb-4 font-bold text-xl text-center text-[#475781] px-6"
-          >
+          <div class="w-full mb-4 font-bold text-xl text-center text-[#475781] px-6">
             Tahun Pengalaman
           </div>
         </div>
       </div>
+      
     </div>
   </section>
   <!-- Testimoni -->
   <section class="bg-[#88a8fa] border-b py-8">
-    <div class="container mx-auto flex flex-wrap pt-4 pb-12">
+    <div class="container mx-auto max-w-7xl flex flex-wrap pt-4 pb-12">
       <h2 class="w-full my-2 text-3xl md:text-5xl font-bold leading-tight text-center text-white">
         Testimoni
       </h2>
@@ -606,19 +595,19 @@
           <div class="w-full mb-4 text-center text-[#475781] px-6">
             "DIGIFUSION membantu saya mengelola toko online "OrganicHarvest" dengan efisien. Mereka memberikan analisis yang mendalam tentang pasar dan pesaing, sehingga saya bisa mengambil keputusan yang lebih baik. Layanan mereka sangat profesional dan responsif."
           </div>
-        </div>
+      </div>
     </div>
   </section>
   <!-- Manfaat -->
   <section class="bg-gray-100 py-8">
-    <div class="container mx-auto px-2 pt-4 pb-12 text-gray-800">
+    <div class="container mx-auto max-w-7xl px-2 pt-4 pb-12 text-gray-800">
       <h2 class="w-full my-2 text-3xl md:text-5xl font-bold leading-tight text-center text-gray-800">
         Manfaat Go Digital Untuk Usaha Anda
       </h2>
       <div class="w-full mb-4">
         <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
       </div>
-      <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
+      <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-7xl">
         <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
           <div class="relative pl-16">
             <dt class="text-xl md:2xl font-semibold leading-7 text-gray-900">
@@ -676,7 +665,7 @@
   <!-- Wave -->
   <x-wave-down></x-wave-down>
   {{-- CTA --}}
-  <section class="container mx-auto py-6 mb-12 flex flex-col justify-center items-center">
+  <section class="container mx-auto max-w-7xl py-6 mb-12 flex flex-col justify-center items-center">
     <h2 class="w-full mx-auto my-2 text-3xl md:text-5xl font-bold leading-tight text-center text-white">
       Yuk Segera Optimasikan Toko Online Anda di Marketplace Bersama COMBROW!!!
     </h2>

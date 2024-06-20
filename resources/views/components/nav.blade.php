@@ -1,5 +1,5 @@
-  <header x-data="{ isOpen: false }" >
-    <nav id="navbar" :class="{'bg-white shadow': scrolled, '': !scrolled}" class="fixed z-10 w-full mx-auto flex max-w-7xl items-center justify-between p-2 lg:px-8" aria-label="Global">
+  <header x-data="{ isOpen: false }">
+    <nav id="navbar" :class="{'bg-white shadow': scrolled, '': !scrolled}" class="fixed z-10 w-full mx-auto flex items-center justify-between p-2 lg:px-8" aria-label="Global">
       <div class="flex lg:flex-1">
         <a id="navtext" :class="{'text-gray-700': scrolled, 'text-white': !scrolled}" class="flex items-center toggleColour text-white no-underline hover:no-underline font-bold text-xl lg:text-2xl" href="/">
           <svg class="h-8 w-8 text-white mr-2" :class="{'text-gray-700': scrolled, 'text-white': !scrolled}"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <path d="M17.905 13.057c2.208 1.756 3.436 3.308 3.012 4.035-.67 1.146-5.204-.204-10.129-3.016-4.924-2.812-8.374-6.022-7.705-7.168.418-.716 2.347-.458 4.936.524" />  <circle cx="12" cy="12" r="6" />
