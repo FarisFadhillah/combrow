@@ -21,7 +21,7 @@
 
         <div class="relative">
           <button type="button" @click="isOpen = !isOpen" :class="{'text-gray-700 hover:text-white hover:bg-[#88a8fa]': scrolled, 'text-white hover:bg-white': !scrolled}" class="group flex items-center gap-x-1 text-md font-semibold leading-6 text-white rounded-full hover:text-gray-900 py-3 px-3" aria-expanded="false">
-            Product
+            Layanan Kami
             <svg class="h-5 w-5 flex-none" :class="{'text-gray-700 group-hover:text-white ': scrolled, 'text-white group-hover:text-gray-700': !scrolled}" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
             </svg>
@@ -33,7 +33,7 @@
                   <svg class="h-6 w-6 text-gray-600 group-hover:text-[#88a8fa]"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <circle cx="12" cy="12" r="10" />  <line x1="2" y1="12" x2="22" y2="12" />  <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" /></svg>
                 </div>
                 <div class="flex-auto">
-                  <a href="#" class="block font-semibold text-gray-900">
+                  <a href="/jasa-website" class="block font-semibold text-gray-900">
                     Jasa Pembuatan Website
                     <span class="absolute inset-0"></span>
                   </a>
@@ -46,7 +46,7 @@
                   </svg>  
                 </div>
                 <div class="flex-auto">
-                  <a href="#" class="block font-semibold text-gray-900">
+                  <a href="/jasa-design" class="block font-semibold text-gray-900">
                     Jasa Design Website
                     <span class="absolute inset-0"></span>
                   </a>
@@ -59,7 +59,7 @@
                   </svg>
                 </div>
                 <div class="flex-auto">
-                  <a href="#" class="block font-semibold text-gray-900">
+                  <a href="/jasa-toko-murah" class="block font-semibold text-gray-900">
                     Jasa Pembuatan Toko Online
                     <span class="absolute inset-0"></span>
                   </a>
@@ -79,7 +79,7 @@
                   </svg>
                 </div>
                 <div class="flex-auto">
-                  <a href="#" class="block font-semibold text-gray-900">
+                  <a href="/jasa-optimasi" class="block font-semibold text-gray-900">
                     Jasa Optimasi Marketplace
                     <span class="absolute inset-0"></span>
                   </a>
@@ -132,10 +132,10 @@
                 x-transition:leave="transition ease-in duration-75 transform"
                 x-transition:leave-start="opacity-100 scale-100"
                 x-transition:leave-end="opacity-0 scale-95" class="mt-2 space-y-2" id="disclosure-1">
-                  <a href="#" class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Jasa Pembuatan Website</a>
-                  <a href="#" class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Jasa Design Website</a>
-                  <a href="#" class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Jasa Pembuatan Toko Online</a>
-                  <a href="#" class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Jasa Optimasi Marketplace</a>
+                  <a href="/jasa-website" class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Jasa Pembuatan Website</a>
+                  <a href="/jasa-design" class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Jasa Design Website</a>
+                  <a href="/jasa-toko-murah" class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Jasa Pembuatan Toko Online</a>
+                  <a href="/jasa-optimasi" class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Jasa Optimasi Marketplace</a>
                 </div>
               </div>
             </div>
