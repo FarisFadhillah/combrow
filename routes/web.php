@@ -12,7 +12,7 @@ Route::get('/jasa-website', function () {
     return view('jasa-web');
 });
 Route::get('/jasa-design', function () {
-    return view('jasa-design');
+    return view('jasa-des');
 });
 Route::get('/jasa-toko-murah', function () {
     return view('jasa-toko-murah');

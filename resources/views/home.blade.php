@@ -45,9 +45,9 @@
               Website akan menjadi tempat konsumen/klien mencari informasi lengkap tentang usaha yang ditawarkan.
             </p>
               <div class="flex items-center justify-start">
-                <button class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+                <a href="/jasa-website" class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
                   Selengkapnya
-                </button>
+                </a>
               </div>
           </div>
         </div>
@@ -69,9 +69,9 @@
               Tampilan website yang segar dan dinamis akan meningkatkan brand awareness usaha Anda.
             </p>
             <div class="flex items-center justify-start">
-              <button class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+              <a href="/jasa-design" class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
                 Selengkapnya
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -87,16 +87,15 @@
             <div
               class="w-full my-4 font-bold text-xl md:text-3xl text-center text-gray-800 px-6"
             >
-              Jasa Pengelolaan Website
+              Website Toko Online Murah 
             </div>
             <p class="text-gray-800 text-center text-md md:text-xl px-6 mb-5">
-              Merancang strategi pemasaran yang efektif berdasarkan hasil riset
-              dan analisis, termasuk strategi konten, sosial media, dan promosi.
+              Ingin Membuat toko online dengan harga murah meriah dengan fitur chat WA dan design cantik? 
             </p>
             <div class="flex items-center justify-start">
-              <button class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+              <a href="/jasa-toko-murah" class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
                 Selengkapnya
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -126,9 +125,9 @@
               meningkatkan kenyamanan pengguna.
             </p>
             <div class="flex items-center justify-start">
-              <button class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+              <a href="/jasa-optimasi" class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
                 Selengkapnya
-              </button>
+              </a>
             </div>
           </div>
         </div>

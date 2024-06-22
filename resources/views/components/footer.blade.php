@@ -7,7 +7,7 @@
       <div class="flex-1 mb-6 md:mb-0 md:px-4">
         <p class="uppercase font-semibold text-gray-500 md:mb-6">Tentang Kami</p>
         <p class="text-gray-500">
-          Kombas Digital Marketing Agency merupakan layanan dari PT Kombas Digital Internasional yang berfokus pada layanan dibidang digital. Baik dalam bentuk digital marketing ataupun digitalisasi perusahaan.
+          Combrow Creative Agency merupakan layanan dari PT Combrow Digital yang berfokus pada layanan dibidang digital. Baik dalam bentuk digital marketing ataupun digitalisasi perusahaan.
         </p>
       </div>
       <div class="flex-1 mb-6 md:mb-0 md:px-4">
