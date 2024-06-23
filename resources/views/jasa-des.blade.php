@@ -191,7 +191,7 @@
                   <li class="border-b py-2">Design Unik dan Menarik</li>
                 </ul>
                 <div class="flex items-center justify-center">
-                  <a href="#" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+                  <a href="https://api.whatsapp.com/send?phone=62858639537275&text=Saya%20tertarik%20jasa%20desain%20website%20basic" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
                     Order Paket Basic
                   </a>
                 </div>
@@ -212,7 +212,7 @@
                   <li class="border-b py-2">Design Unik dan Menarik</li>
                 </ul>
                 <div class="flex items-center justify-center">
-                  <a href="#" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+                  <a href="https://api.whatsapp.com/send?phone=62858639537275&text=Saya%20tertarik%20jasa%20desain%20website%20silver" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
                     Order Paket Silver
                   </a>
                 </div>
@@ -233,7 +233,7 @@
                   <li class="border-b py-2">Design Unik dan Menarik</li>
                 </ul>
                 <div class="flex items-center justify-center">
-                  <a href="#" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+                  <a href="https://api.whatsapp.com/send?phone=62858639537275&text=Saya%20tertarik%20jasa%20desain%20website%20gold" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
                     Order Paket Gold
                   </a>
                 </div>
@@ -252,7 +252,7 @@
       <h2 class="w-full mx-auto my-2 text-4xl md:text-5xl leading-tight font-bold text-center text-white">
         DENGAN DESAIN WEBSITE CANTIK BERSAMA KAMI?
       </h2>
-      <a href="#" class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out shadow-white">
+      <a href="https://wa.me/62858639537275" class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out shadow-white">
         Hubungi Kami
       </a>
     </section>

@@ -10,9 +10,9 @@
         <p class="leading-normal text-md mb-0 md:text-xl md:mb-8">
           <span class="font-bold">Combrow Creative</span> merupakan konsultan sekaligus penyedia layanan jasa digital marketing untuk berbagai tahapan bisnis hasil kolaborasi dari berbagai Agency & profesional terbaik di Indonesia!
         </p>
-        <button class="mx-auto md:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-3 px-6 md:py-4 md:px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+        <a href="https://wa.me/62858639537275" class="mx-auto md:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-3 px-6 md:py-4 md:px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
           Mulai Sekarang
-        </button>
+        </a>
       </div>
       <!--Right Col-->
       <div class="w-full md:w-3/5 py-6 justify-center md:flex hidden">
@@ -668,9 +668,9 @@
     <h2 class="w-full mx-auto my-2 text-3xl md:text-5xl font-bold leading-tight text-center text-white">
       Yuk Segera Optimasikan Toko Online Anda di Marketplace Bersama COMBROW!!!
     </h2>
-    <button class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+    <a href="https://wa.me/62858639537275" class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
       Hubungi Customer Service
-    </button>
+    </a>
   </section>
 </x-base>
 

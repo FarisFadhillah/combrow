@@ -6,13 +6,13 @@
         <h2 class="w-1/2 my-2 pb-4 text-5xl font-bold leading-tight text-center text-white">
           WEBSITE TOKO ONLINE MURAH
         </h2>
-        <p class="w-1/2 my-2 text-2xl leading-tight text-white">
+        <p class="max-w-3xl my-2 text-2xl leading-tight text-white">
           <span class="font-semibold">Website Toko Online Murah</span> - Website toko online yang diluncurkan oleh Combrow Creative ini adalah website murah yang tidak menguras kantong Anda.
         </p>
-        <p class="w-1/2 my-2 text-2xl leading-tight text-white">
+        <p class="max-w-3xl my-2 text-2xl leading-tight text-white">
           Layanan ini dibuat sebagai jawaban dari tingginya permintaan teman-teman UKM.  Yang menginginkan sebuah website yang bisa menampilkan produk-produk secara online.  Dengan harga yang terjangkau.
         </p>
-        <p class="w-1/2 my-2 text-2xl leading-tight text-white">
+        <p class="max-w-3xl my-2 text-2xl leading-tight text-white">
           Proses transaksi yang ditawarkan di website toko online ini juga mudah langsung menuju ke WA toko. Sehingga proses diskusi, tanya jawab dapat langsung dilakukan antara konsumen dengan Anda.
         </p>
     </section>
@@ -147,7 +147,7 @@
                   <li class="border-b py-2">Biaya perpanjangan 500k/tahun</li>
                 </ul>
                 <div class="flex items-center justify-center">
-                  <a href="#" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+                  <a href="https://api.whatsapp.com/send?phone=62858639537275&text=Saya%20tertarik%20dengan%20Web%20katalog%20online%20ekonomis" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
                     Order Web Katalog Ekonomis
                   </a>
                 </div>
@@ -169,7 +169,7 @@
                   <li class="border-b py-2">Biaya perpanjangan 850k/tahun</li>
                 </ul>
                 <div class="flex items-center justify-center">
-                  <a href="#" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+                  <a href="https://api.whatsapp.com/send?phone=62858639537275&text=Saya%20tertarik%20dengan%20Web%20katalog%20online%20bisnis" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
                     Order Web Katalog Bisnis
                   </a>
                 </div>
@@ -191,7 +191,7 @@
                   <li class="border-b py-2">Biaya perpanjangan 1000k/tahun</li>
                 </ul>
                 <div class="flex items-center justify-center">
-                  <a href="#" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+                  <a href="https://api.whatsapp.com/send?phone=62858639537275&text=Saya%20tertarik%20dengan%20Web%20katalog%20online%20exclusive" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
                     Order Web Katalog Exclusive
                   </a>
                 </div>
@@ -210,7 +210,7 @@
       <h2 class="w-full mx-auto my-2 text-4xl md:text-5xl leading-tight font-bold text-center text-white">
         MENGGUNAKAN WEBSITE TOKO ONLINE MURAH BERSAMA KAMI?
       </h2>
-      <a href="#" class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out shadow-white">
+      <a href="https://wa.me/62858639537275" class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out shadow-white">
         Hubungi Kami
       </a>
     </section>

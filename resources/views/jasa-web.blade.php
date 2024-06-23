@@ -188,7 +188,7 @@
                   <li class="border-b py-2">Integrasi dengan Sosial Media</li>
                 </ul>
                 <div class="flex items-center justify-center">
-                  <a href="#" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+                  <a href="https://api.whatsapp.com/send?phone=62858639537275&text=Saya%20tertarik%20jasa%20pembuatan%20landing%20page" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
                     Order Landing Page
                   </a>
                 </div>
@@ -215,8 +215,8 @@
                   <li class="border-b py-2">Integrasi dengan Sosial Media</li>
                 </ul>
                 <div class="flex items-center justify-center">
-                  <a href="#" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
-                    Order Web Company Pro
+                  <a href="https://api.whatsapp.com/send?phone=62858639537275&text=Saya%20tertarik%20jasa%20pembuatan%20web%20company%20profile" class="mx-auto lg:mx-0 hover:underline bg-white text-[#88a8fa] font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+                    Order Web Company Profile
                   </a>
                 </div>
               </div>
@@ -263,7 +263,7 @@
       <h2 class="w-full mx-auto my-2 text-4xl md:text-5xl leading-tight font-bold text-center text-white">
         MENGGUNAKAN WEBSITE BERSAMA KAMI?
       </h2>
-      <a href="#" class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out shadow-white">
+      <a href="https://wa.me/62858639537275" class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out shadow-white">
         Hubungi Kami
       </a>
     </section>

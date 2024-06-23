@@ -91,7 +91,7 @@
         
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end">
-        <a href="#" :class="{'text-white  bg-[#88a8fa]': scrolled, 'bg-white text-gray-800': !scrolled}" class="mx-auto lg:mx-0 hover:underline font-bold rounded-full  py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+        <a href="https://wa.me/62858639537275" :class="{'text-white  bg-[#88a8fa]': scrolled, 'bg-white text-gray-800': !scrolled}" class="mx-auto lg:mx-0 hover:underline font-bold rounded-full  py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
           Mulai Sekarang
         </a>
       </div>
