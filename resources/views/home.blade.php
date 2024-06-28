@@ -16,7 +16,7 @@
       </div>
       <!--Right Col-->
       <div class="w-full md:w-3/5 py-6 justify-center md:flex hidden">
-        <img class="w-full md:w-4/5" src="../images/hero.png" alt="hero">
+        <img class="w-full md:w-4/5" src="../images/iso-2-hero.png" alt="hero">
       </div>
     </div>
   </div>
@@ -578,21 +578,21 @@
       </div>
       <div class="w-full md:w-1/2 p-6 flex flex-col flex-grow flex-shrink ">
         <div class="flex-1 bg-white rounded-2xl overflow-hidden flex flex-col justify-center items-center shadow" >
-          <div class="w-full mb-6 pt-4 font-bold text-xl md:text-2xl text-center text-[#88a8fa] px-6">
-            Sarah, Toko Baju Fashion "ChicStyle"
+          <div class="w-full mb-4 pt-4 font-bold text-xl md:text-2xl text-center text-[#88a8fa] px-6">
+            Sarah
           </div>
           <div class="w-full mb-4 text-center text-[#475781] px-6">
-            "Sejak menggunakan layanan DIGIFUSION, penjualan toko online "ChicStyle" saya meningkat secara signifikan. Mereka tidak hanya membantu mengoptimalkan iklan saya tetapi juga memberikan saran berharga untuk meningkatkan visibilitas toko saya. Sangat merekomendasikan!"
+            "Website company profilenya terlihat sangat profesional dan informatif. Timnya sangat membantu dan responsif."
           </div>
         </div>
       </div>
       <div class="w-full md:w-1/2 p-6 flex flex-col flex-grow flex-shrink">
         <div class="flex-1 bg-white rounded-2xl overflow-hidden flex flex-col justify-center items-center shadow" >
-          <div class="w-full mb-6 pt-4 font-bold text-xl md:text-2xl text-center text-[#88a8fa] px-6">
-            Budi, Brand Owner "OrganicHarvest"
+          <div class="w-full mb-4 pt-4 font-bold text-xl md:text-2xl text-center text-[#88a8fa] px-6">
+            Budi
           </div>
           <div class="w-full mb-4 text-center text-[#475781] px-6">
-            "DIGIFUSION membantu saya mengelola toko online "OrganicHarvest" dengan efisien. Mereka memberikan analisis yang mendalam tentang pasar dan pesaing, sehingga saya bisa mengambil keputusan yang lebih baik. Layanan mereka sangat profesional dan responsif."
+            "Prosesnya cepat dan hasilnya memuaskan. Landing page saya terlihat profesional dan fungsional."
           </div>
       </div>
     </div>
@@ -639,10 +639,7 @@
               </div>
               Menjaga Hubungan Dengan Konsumen
             </dt>
-            <dd class="mt-2 text-base leading-7 text-gray-600">Pandemi memaksa orang untuk mengurangi aktifitas di luar rumah.  Kondisi ini dapat menjadi pemutus hubungan kita dengan konsumen.
-              Dengan go digital, maka konsumen yang di rumah saja akan dapat tetap terhubung dengan usaha kita.
-              
-              Dengan demikian akan tetap menjaga komunikasi kita dengan konsumen..</dd>
+            <dd class="mt-2 text-base leading-7 text-gray-600">Dengan website, bisnis dapat menyediakan informasi terbaru, menangani pertanyaan pelanggan, dan memberikan layanan yang cepat dan efisien, sehingga meningkatkan kepuasan dan loyalitas pelanggan.</dd>
           </div>
           <div class="relative pl-16">
             <dt class="text-xl md:2xl font-semibold leading-7 text-gray-900">
@@ -654,8 +651,7 @@
               </div>
               Menigkatkan Peluang Pengembangan Usaha Semakin Luas
             </dt>
-            <dd class="mt-2 text-base leading-7 text-gray-600">Dengan jangkauan yang semakin luas, maka jumlah konsumen usaha kita akan semakin meningkat peluangnya.
-              Apabila kesempatan ini bisa dikelola dengan baik, maka pandemi akan dapat menmberikan peluang bisnis Anda untuk semakin berkembang.</dd>
+            <dd class="mt-2 text-base leading-7 text-gray-600">Dengan jangkauan yang semakin luas, maka jumlah konsumen usaha kita akan semakin meningkat peluangnya. Apabila kesempatan ini bisa dikelola dengan baik, maka akan memberikan peluang bisnis Anda untuk semakin berkembang.</dd>
           </div>
         </dl>
       </div>
